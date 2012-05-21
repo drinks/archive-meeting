@@ -120,12 +120,7 @@ function init() {
 
 
   $('#is-presenting-toggler').click( function() {
-    // console.log( this.value );
-    isPresoEnabled = !isPresoEnabled;
-    var swap = isPresoEnabled ? 'add' : 'remove';
-    
-    $html[ swap + 'Class' ]('preso-enabled');
-    document[ swap + 'EventListener' ]( 'keyup', handleKeyup, false );
+    togglePresoOn($html);
   });
 
   $('#font-size-adjuster').on( 'change', function() {
@@ -133,6 +128,18 @@ function init() {
     $('#content').css({ fontSize: this.value + 'px' });
   });
 
+  if ( location.search.match(/presenting/) ) {
+    togglePresoOn($html);
+  }
+
+}
+
+function togglePresoOn(el) {
+  isPresoEnabled = !isPresoEnabled;
+    var swap = isPresoEnabled ? 'add' : 'remove';
+    
+    el[ swap + 'Class' ]('preso-enabled');
+    document[ swap + 'EventListener' ]( 'keyup', handleKeyup, false );
 }
   
 window.addEventListener( 'load', init, false);
