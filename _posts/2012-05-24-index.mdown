@@ -111,7 +111,7 @@ We can categorize and rank TV news programs by their tone(!)
 
 ## Clip Context
 
-+ Web UI is keyword-driven
++ Web UI is keyword-bound
 + Hard to know what is being said before or after a hit
 + Hits can occur at the very beginning or end of a clip
 + Would be nice to be able to see next/prev, or watch clips back-to-back
