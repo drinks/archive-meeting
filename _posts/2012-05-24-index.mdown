@@ -1,0 +1,133 @@
+---
+
+layout: presentation
+title: Open Government and the TV News Archive
+permalink: index.html
+
+---
+
+# Open Government and the TV News Archive
+
+## Hello!
+
++ Dan Drinkard
++ Web Developer, Sunlight Foundation
+
+## The Sunlight Foundation
+
+> The Sunlight Foundation is a non-profit, nonpartisan organization 
+> that uses the power of the Internet to catalyze greater government 
+> openness and transparency, and provides new tools and resources for 
+> media and citizens, alike. We are committed to improving access to 
+> government information by making it available online, indeed redefining 
+> “public” information as meaning “online,” and by creating new tools and 
+> websites to enable individuals and communities to better access that 
+> information and put it to use.
+
++ Founded in April 2006
++ Mike Klein, Ellen Miller
+
+## Sunlight Labs
+
+
+
+### Influence Explorer
+![Influence Explorer screenshot](img/ie.png)
+
+![Influence Explorer screenshot](img/ie-2.png)
+
+![Influence Explorer screenshot](img/ie-3.png)
+
+### Poligraft
+![Poligraft screenshot](img/poligraft.png)
+
+![Poligraft screenshot](img/poligraft-2.png)
+
+![Poligraft screenshot](img/poligraft-3.png)
+
+### Capitol Words
+![Capitol Words screenshot](img/capwords.png)
+
+![Capitol Words screenshot](img/capwords-2.png)
+
+![Capitol Words screenshot](img/capwords-3.png)
+
+### APIs
+![Services screenshot](img/services.png)
+
+### We have lots of data, and we'd love for you to use it.
+
+## We are excited about the TV News Archive.
+
++ High-level analytics, mention-tracking
++ Facets
++ Captioning data
++ House & Senate footage
++ Back to mid-2009
++ _Captioning data!_
+
+## Some Ideas
+
+## Video Annotation for Capitol Words
+
++ [Superfastmatch: Text processing engine behind Churnalism](http://churnalism.com/)
++ Download House, Senate transcripts in bulk
++ Find overlap w/ Congressional Record
++ Attribute clips to speakers
+
+Which leads to...
+
+## ...Training data for voiceprinting legislators
+
++ Speaker -> timecode
++ Timecode -> audio sample
++ Speaker -> audio sample = Classifier for identifying legislators in arbitrary recorded text
+
+## Influence Explorer, the Popcorn plugin
+
++ [Popcorn, an HTML5 Media Framework](http://popcornjs.com)
++ [Influence Explorer Text API](http://inbox.influenceexplorer.com/api)
++ Programmatically extract entities from transcripts
++ Display campaign finance data alongside the video feed, as a topic is mentioned
+
+[Demo]
+
+## Affective Norms for English Words
+
++ Center for the Study of Emotion and Attention, Florida
++ Giant word list
++ _Valence, Arousal, Dominance_ (tone)
+
+Facets by program, channel
+
+![ANEW tables](img/anew-1.png)
+
+![Faceted term search](img/anew-2.png)
+
+We can categorize and rank TV news programs by their tone
+
+## Some notes
+
+## Clip Context
+
++ Web UI is keyword-driven
++ Hard to know what is being said before or after a hit
++ Hits can occur at the very beginning or end of a clip
++ Would be nice to be able to see next/prev, or watch clips back-to-back
+
+## Commercials
+
++ Program caption text is interspersed with commercial caption text
++ Hard to do text analysis that can be attributed to a program
++ Commercials do have value, Maybe break them out into a separate 'program', searchable in context?
+
+## Captioning
+
++ Other formats
++ Data quality?
+
+## Thank You
+
++ [dandrinkard.github.com/tv-archive](http://dandrinkard.github.com/tv-archive) (After launch)
++ <ddrinkard@sunlightfoundation.com>
++ [@dandrinkard](http://twitter.com/dandrinkard)
