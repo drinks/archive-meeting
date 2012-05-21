@@ -105,7 +105,7 @@ Facets by program, channel
 
 ![Faceted term search](img/anew-2.png)
 
-We can categorize and rank TV news programs by their tone
+We can categorize and rank TV news programs by their tone(!)
 
 ## Some notes
 
@@ -127,7 +127,7 @@ We can categorize and rank TV news programs by their tone
 + Other formats (json, xml, csv)
 + Data quality?
 
-## Thank You
+## Questions?
 
 + [dandrinkard.github.com/tv-archive](http://dandrinkard.github.com/archive-meeting) (After launch)
 + <ddrinkard@sunlightfoundation.com>
