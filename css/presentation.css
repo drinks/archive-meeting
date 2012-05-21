@@ -1,7 +1,7 @@
 body {
   background: #fff url(../img/bg.png) repeat;
   color: #818d93;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans Condensed', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 18px;
   padding: 0;
   padding-bottom: 40%;
@@ -17,6 +17,7 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, pre {
 
 h1, h2, h3, h4 {
   margin-bottom: 0.4em;
+  font-weight: bold;
 }
 
 h1 {
@@ -30,6 +31,9 @@ h2 {
   padding-top: 0.5em;
 }
 
+p, li {
+  font-family: 'PT Sans', 'Helvetica Neue', Helvetica, arial, sans-serif;
+}
 
 li {
   margin-bottom: 0.4em;
@@ -56,6 +60,9 @@ img {
   margin: 0 auto;
   max-width: 100%;
   max-height: 100%;
+  padding:3px;
+  background: #fff;
+  box-shadow:0 1px 5px rgba(0, 0, 0, 0.05);
 }
 
 blockquote {

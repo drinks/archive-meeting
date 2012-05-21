@@ -11,7 +11,8 @@ permalink: index.html
 ## Hello!
 
 + Dan Drinkard
-+ Web Developer, Sunlight Foundation
++ Web Developer
++ ![Sunlight Foundation](img/sun.png)
 
 ## The Sunlight Foundation
 
@@ -31,28 +32,28 @@ permalink: index.html
 
 
 
-### Influence Explorer
+### Influence Explorer ([influenceexplorer.com](http://influenceexplorer.com))
 ![Influence Explorer screenshot](img/ie.png)
 
 ![Influence Explorer screenshot](img/ie-2.png)
 
 ![Influence Explorer screenshot](img/ie-3.png)
 
-### Poligraft
+### Poligraft ([poligraft.com](http://poligraft.com))
 ![Poligraft screenshot](img/poligraft.png)
 
 ![Poligraft screenshot](img/poligraft-2.png)
 
 ![Poligraft screenshot](img/poligraft-3.png)
 
-### Capitol Words
+### Capitol Words ([capitolwords.org](http://capitolwords.org))
 ![Capitol Words screenshot](img/capwords.png)
 
 ![Capitol Words screenshot](img/capwords-2.png)
 
 ![Capitol Words screenshot](img/capwords-3.png)
 
-### APIs
+### APIs ([services.sunlightlabs.com](http://services.sunlightlabs.com))
 ![Services screenshot](img/services.png)
 
 ### We have lots of data, and we'd love for you to use it.
@@ -123,11 +124,11 @@ We can categorize and rank TV news programs by their tone
 
 ## Captioning
 
-+ Other formats
++ Other formats (json, xml, csv)
 + Data quality?
 
 ## Thank You
 
-+ [dandrinkard.github.com/tv-archive](http://dandrinkard.github.com/tv-archive) (After launch)
++ [dandrinkard.github.com/tv-archive](http://dandrinkard.github.com/archive-meeting) (After launch)
 + <ddrinkard@sunlightfoundation.com>
 + [@dandrinkard](http://twitter.com/dandrinkard)
