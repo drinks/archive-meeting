@@ -91,8 +91,6 @@ Which leads to...
 + Programmatically extract entities from transcripts
 + Display campaign finance data alongside the video feed, as a topic is mentioned
 
-[Demo]
-
 ## Affective Norms for English Words
 
 + Center for the Study of Emotion and Attention, Florida
