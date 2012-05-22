@@ -73,7 +73,7 @@ permalink: index.html
 
 ![Capitol Words screenshot](img/capwords-4.png)
 
-+ [Superfastmatch: Text processing engine behind Churnalism](http://churnalism.com/)
++ [Superfastmatch: Text processing engine behind Churnalism](http://churnalism.com/458wx/)
 + Download House, Senate transcripts in bulk
 + Find overlap w/ Congressional Record
 + Attribute clips to speakers
