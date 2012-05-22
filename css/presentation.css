@@ -68,7 +68,7 @@ img {
 blockquote {
   max-width: 75%;
   border: 0.2em solid rgba(0, 0, 0, 0.05);
-  margin: 1em auto;
+  margin: 2em auto;
   text-align:left;
   font-style: italic;
   color: rgba(0, 0, 0, 0.5);
@@ -142,7 +142,6 @@ blockquote p {
 .preso-enabled .preso-item.hidden,
 html:not(.preso-enabled) .directions {
   opacity: 0;
-  visibility: hidden;
   pointer-events: none;
 /*  -webkit-transform: scaleY(0.01) scaleX(2);
      -moz-transform: scaleY(0.01) scaleX(2);

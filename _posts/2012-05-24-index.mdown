@@ -71,6 +71,8 @@ permalink: index.html
 
 ## Video Annotation for Capitol Words
 
+![Capitol Words screenshot](img/capwords-4.png)
+
 + [Superfastmatch: Text processing engine behind Churnalism](http://churnalism.com/)
 + Download House, Senate transcripts in bulk
 + Find overlap w/ Congressional Record
