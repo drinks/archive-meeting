@@ -131,6 +131,6 @@ We can categorize and rank TV news programs by their tone(!)
 
 ## Questions?
 
-+ [dandrinkard.github.com/tv-archive](http://dandrinkard.github.com/archive-meeting) (After launch)
++ [dandrinkard.github.com/archive-meeting](http://dandrinkard.github.com/archive-meeting) (Repo private until after launch)
 + <ddrinkard@sunlightfoundation.com>
 + [@dandrinkard](http://twitter.com/dandrinkard)
