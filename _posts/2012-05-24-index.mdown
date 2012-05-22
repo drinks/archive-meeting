@@ -12,7 +12,7 @@ permalink: index.html
 
 + Dan Drinkard
 + Web Developer
-+ ![Sunlight Foundation](img/sun.png)
++ ![Sunlight Foundation](img/logo.png)
 
 ## The Sunlight Foundation
 
@@ -29,8 +29,6 @@ permalink: index.html
 + Mike Klein, Ellen Miller
 
 ## Sunlight Labs
-
-
 
 ### Influence Explorer ([influenceexplorer.com](http://influenceexplorer.com))
 ![Influence Explorer screenshot](img/ie.png)
@@ -129,8 +127,9 @@ We can categorize and rank TV news programs by their tone(!)
 + Other formats (json, xml, csv)
 + Data quality?
 
-## Questions?
+## Thanks!
 
 + [dandrinkard.github.com/archive-meeting](http://dandrinkard.github.com/archive-meeting) (Repo private until after launch)
 + <ddrinkard@sunlightfoundation.com>
 + [@dandrinkard](http://twitter.com/dandrinkard)
++ Questions?

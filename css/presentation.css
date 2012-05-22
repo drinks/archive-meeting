@@ -1,5 +1,7 @@
-body {
-  background: #fff url(../img/bg.png) repeat;
+html { background: url(../img/bg.jpg) fixed center top repeat-x;}
+body { 
+  background: url(../img/bg_middle.jpg) fixed left top no-repeat;
+  min-height: 326px;
   color: #818d93;
   font-family: 'Open Sans Condensed', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 18px;
@@ -60,8 +62,7 @@ img {
   margin: 0 auto;
   max-width: 100%;
   max-height: 100%;
-  padding:3px;
-  background: #fff;
+  padding:0;
   box-shadow:0 1px 5px rgba(0, 0, 0, 0.05);
 }
 
