@@ -33,6 +33,12 @@ permalink: index.html
 ### Influence Explorer ([influenceexplorer.com](http://influenceexplorer.com))
 ![Influence Explorer screenshot](img/ie.png)
 
++ Campaign contributions
++ Federal lobbying
++ Federal grants
++ Federal contracts
++ Aggregate contributions
+
 ![Influence Explorer screenshot](img/ie-2.png)
 
 ![Influence Explorer screenshot](img/ie-3.png)
@@ -40,14 +46,28 @@ permalink: index.html
 ### Poligraft ([poligraft.com](http://poligraft.com))
 ![Poligraft screenshot](img/poligraft.png)
 
++ Influence Explorer data
++ Aggregate contributions
+
 ![Poligraft screenshot](img/poligraft-2.png)
+
++ Contribution breakdowns
++ Lobbying industries
++ Contributing industries
++ Entity extraction!
 
 ![Poligraft screenshot](img/poligraft-3.png)
 
 ### Capitol Words ([capitolwords.org](http://capitolwords.org))
 ![Capitol Words screenshot](img/capwords.png)
 
++ Congressional record parsing
++ Best effort at attribution
++ Indexed, searchable
+
 ![Capitol Words screenshot](img/capwords-2.png)
+
++ Breakdowns over time, by party, state
 
 ![Capitol Words screenshot](img/capwords-3.png)
 
