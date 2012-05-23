@@ -54,9 +54,10 @@ permalink: index.html
 + Contribution breakdowns
 + Lobbying industries
 + Contributing industries
-+ Entity extraction!
 
 ![Poligraft screenshot](img/poligraft-3.png)
+
++ Entity extraction!
 
 ### Capitol Words ([capitolwords.org](http://capitolwords.org))
 ![Capitol Words screenshot](img/capwords.png)
@@ -117,9 +118,9 @@ Which leads to...
 + Giant word list
 + _Valence, Arousal, Dominance_ (tone)
 
-Facets by program, channel
-
 ![ANEW tables](img/anew-1.png)
+
+Facets by program, channel
 
 ![Faceted term search](img/anew-2.png)
 
