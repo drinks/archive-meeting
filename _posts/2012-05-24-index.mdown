@@ -1,12 +1,12 @@
 ---
 
 layout: presentation
-title: Open Government and the TV News Archive
+title: Open Government and TV News re:Search
 permalink: index.html
 
 ---
 
-# Open Government and the TV News Archive
+# Open Government and TV News re:Search
 
 ## Hello!
 
@@ -57,7 +57,7 @@ permalink: index.html
 
 ![Poligraft screenshot](img/poligraft-3.png)
 
-+ Entity extraction!
++ Entity extraction
 
 ### Capitol Words ([capitolwords.org](http://capitolwords.org))
 ![Capitol Words screenshot](img/capwords.png)
@@ -77,7 +77,7 @@ permalink: index.html
 
 ### We have lots of data, and we'd love for you to use it.
 
-## We are excited about the TV News Archive.
+## We are excited about the TV News re:Search service.
 
 + High-level analytics, mention-tracking
 + Facets
