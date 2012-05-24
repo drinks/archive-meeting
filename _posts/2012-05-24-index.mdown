@@ -101,9 +101,11 @@ Which leads to...
 
 ## ...Training data for voiceprinting legislators
 
-+ Speaker -> timecode
-+ Timecode -> audio sample
-+ Speaker -> audio sample = Classifier for identifying legislators in arbitrary recorded text
++ Oyez Project, IIT Chicago-Kent Law
++ UPenn Linguistics
++ Gaussian Mixture Models + Monophone HMM = ~100% matching of SCOTUS audio
++ Speaker -> timecode -> audio sample
++ Classifier for identifying legislators in arbitrary recorded congressional testimony
 
 ## Influence Explorer, the Popcorn plugin
 
